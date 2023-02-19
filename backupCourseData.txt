@@ -1,0 +1,3 @@
+CourseID	CourseName	CourseCredit	CourseTime
+1	Java	3	Friday(9:00-11:00)
+2	Python	2	Friday(9:00-11:00)
